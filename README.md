@@ -1,1 +1,1 @@
-An Excel document with three tabs of synthetic data for datawarehousing testing in customer retention. The column retention_target refers to whether the customer is current or past.This repository also includes sample table creation commands.
+An Excel document with three tabs of synthetic data for datawarehousing testing in customer retention. The column retention_target refers to whether the customer is current or past. This repository also includes sample table creation commands.
